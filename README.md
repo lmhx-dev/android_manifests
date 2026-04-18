@@ -2,7 +2,7 @@
 
 Once you have initialised repo, clone your local manifest.
 
-`git clone https://github.com/lmhx-dev/android_manifests .repo/local_manifests`
+`git clone https://github.com/lmhx-dev/android_manifests -b PixelOS-qpr2 .repo/local_manifests`
 
 Now sync up and build your ROM.
 ___
