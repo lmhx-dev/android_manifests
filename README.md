@@ -2,7 +2,7 @@
 
 Once you have initialised repo, clone your local manifest.
 
-`git clone https://github.com/lmhx-dev/android_manifests .repo/local_manifests`
+`git clone https://github.com/lmhx-dev/android_manifests -b Crdroid-16.0 .repo/local_manifests`
 
 Now sync up and build your ROM.
 ___
