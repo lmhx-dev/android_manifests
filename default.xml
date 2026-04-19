@@ -10,9 +10,9 @@
   <project path="vendor/realme/pista" name="proprietary_vendor_realme_pista" remote="lmhx-dev" revision="lineage-23.2" />
   <project path="vendor/oneplus/sm8750-common" name="proprietary_vendor_oneplus_sm8750-common" remote="lmhx-dev" revision="lineage-23.2" />
 
-  <project path="kernel/oneplus/sm8750" name="android_kernel_oneplus_sm8750" remote="los" revision="lineage-23.2" />
-  <project path="kernel/oneplus/sm8750-modules" name="android_kernel_oneplus_sm8750-modules" remote="los" revision="lineage-23.2" />
-  <project path="kernel/oneplus/sm8750-devicetrees" name="android_kernel_oneplus_sm8750-devicetrees" remote="los" revision="lineage-23.2" />
+  <project path="kernel/oneplus/sm8750" name="android_kernel_oneplus_sm8750" remote="lmhx-dev" revision="lineage-23.2" />
+  <project path="kernel/oneplus/sm8750-modules" name="android_kernel_oneplus_sm8750-modules" remote="lmhx-dev" revision="lineage-23.2" />
+  <project path="kernel/oneplus/sm8750-devicetrees" name="android_kernel_oneplus_sm8750-devicetrees" remote="lmhx-dev" revision="lineage-23.2" />
 
   <project path="hardware/oplus" name="android_hardware_oplus" remote="lmhx-dev" revision="lineage-23.2" />
 </manifest>
