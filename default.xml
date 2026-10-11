@@ -2,7 +2,7 @@
 <manifest>
   
   <remote name="lmhx-dev" fetch="https://github.com/lmhx-dev" />
-  <remote name="lmhx-dev3" fetch=" https://gitlab.com/lmhx-dev3" />
+  <remote name="lmhx-dev3" fetch="https://gitlab.com/lmhx-dev3" />
 
   <project path="device/realme/lafa" name="android_device_realme_lafa" remote="lmhx-dev" revision="lineage-24.0" />
   <project path="device/oneplus/sm8850-common" name="android_device_oneplus_sm8850-common" remote="lmhx-dev3" revision="lineage-24.0" />
