@@ -10,9 +10,9 @@
   <project path="vendor/realme/pista" name="proprietary_vendor_realme_pista" remote="lmhx-dev3" revision="lineage-24.0" />
   <project path="vendor/oneplus/sm8850-common" name="proprietary_vendor_oneplus_sm8850-common" remote="lmhx-dev" revision="lineage-24.0" />
 
-  <project path="kernel/oneplus/sm8850" name="android_kernel_oneplus_sm8850" remote="lmhx-dev" revision="lineage-24.0" />
-  <project path="kernel/oneplus/sm8850-modules" name="android_kernel_oneplus_sm8850-modules" remote="lmhx-dev" revision="lineage-24.0" />
-  <project path="kernel/oneplus/sm8850-devicetrees" name="android_kernel_oneplus_sm8850-devicetrees" remote="lmhx-dev" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-6.12/vendor/oneplus/sm8850" name="android_kernel_oneplus_sm8850" remote="lmhx-dev" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-6.12/vendor/oneplus/sm8850-modules" name="android_kernel_oneplus_sm8850-modules" remote="lmhx-dev" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-6.12/vendor/oneplus/sm8850-devicetrees" name="android_kernel_oneplus_sm8850-devicetrees" remote="lmhx-dev" revision="lineage-24.0" />
 
   <project path="hardware/oplus" name="android_hardware_oplus" remote="lmhx-dev" revision="lafa-lineageos-24" />
 </manifest>
