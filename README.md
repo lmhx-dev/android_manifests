@@ -2,7 +2,7 @@
 
 Once you have initialised repo, clone your local manifest.
 
-`git clone https://github.com/lmhx-dev/android_manifests .repo/local_manifests -b lafa-lineageos-24.0`
+`git clone https://github.com/lmhx-dev/android_manifests .repo/local_manifests -b Lafa-LineageOS-24.0`
 
 Now sync up and build your ROM.
 ___
